@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+xgboost
+lightgbm
+catboost
+neuralforecast
+h2o
+torch
+matplotlib
+yfinance
+MetaTrader5      # optional, Windows only
+jupyter
